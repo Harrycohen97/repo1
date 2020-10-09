@@ -1,0 +1,29 @@
+commit ef39bad67ab294644302e2c163c218dc12687031
+Author: Harrycohen97 <harry.jf.cohen@gmail.com>
+Date:   Fri Oct 9 14:29:33 2020 +0100
+
+    sd
+
+commit 96e417df8a58149eb8d0e797da5a1532b8ccccba
+Author: Harrycohen97 <harry.jf.cohen@gmail.com>
+Date:   Fri Oct 9 14:23:16 2020 +0100
+
+    add gitignore
+
+commit 9395f606b07d3689af9fbf8563857d6704116e01
+Author: Harrycohen97 <harry.jf.cohen@gmail.com>
+Date:   Fri Oct 9 10:49:19 2020 +0100
+
+    modified readme.txt
+
+commit b2153931a94865447ddb7b10bed23d652296bd26
+Author: Harrycohen97 <harry.jf.cohen@gmail.com>
+Date:   Fri Oct 9 10:46:06 2020 +0100
+
+    added two files
+
+commit 014316dc84eff116357fc960888bdf3795cf7731
+Author: Harrycohen97 <harry.jf.cohen@gmail.com>
+Date:   Fri Oct 9 10:31:38 2020 +0100
+
+    added readme.txt
